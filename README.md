@@ -1,1 +1,1 @@
-# c-24HW
+# project-C24-template
